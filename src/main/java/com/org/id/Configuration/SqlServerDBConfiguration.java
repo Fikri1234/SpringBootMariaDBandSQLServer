@@ -1,8 +1,3 @@
-/**
- * @author ATI-User
- * Aug 2, 2019
- * 
- */
 package com.org.id.Configuration;
 
 import java.util.Properties;
@@ -26,7 +21,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * @author ATI-User
+ * @author Fikri
  *
  * Aug 2, 2019
  */
